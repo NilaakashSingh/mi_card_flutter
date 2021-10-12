@@ -17,6 +17,6 @@ Challenge 1:
 
 ![alt text](https://github.com/NilaakashSingh/mi_card_flutter/blob/master/Container_with_row_and_column.png)
 
-Challenge 1:
+Challenge 2:
 
 ![alt text](https://github.com/NilaakashSingh/mi_card_flutter/blob/master/MiCard_Thanos.png)
